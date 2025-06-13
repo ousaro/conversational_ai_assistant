@@ -1,0 +1,34 @@
+{
+  "message_history": [
+    {
+      "id": 1,
+      "prompt": "What is my name?",
+      "response": "My name is Airen."
+    },
+    {
+      "id": 2,
+      "prompt": "I am actually building my own game using unity. What is the best to promote it?",
+      "response": "Great to hear you are building a game! The best way to promote it is to create a strong online presence through social media, engage with gaming communities, and consider using platforms like Steam or itch.io for distribution. You can also create a trailer and share it on YouTube and other video platforms."
+    },
+    {
+      "id": 3,
+      "prompt": "What are my favorite game genres?",
+      "response": "Your favorite game genres include action-adventure, role-playing games (RPGs), and strategy games."
+    },
+    {
+      "id": 4,
+      "prompt": "what is my name",
+      "response": "your name is Airen!"
+    },
+    {
+      "id": 5,
+      "prompt": "what is my name",
+      "response": "Airen."
+    },
+    {
+      "id": 6,
+      "prompt": "what are my best game genra?",
+      "response": "Action-adventure, RPGs, and strategy games."
+    }
+  ]
+}
