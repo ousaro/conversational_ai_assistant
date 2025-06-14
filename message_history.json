@@ -29,6 +29,11 @@
       "id": 6,
       "prompt": "what are my best game genra?",
       "response": "Action-adventure, RPGs, and strategy games."
+    },
+    {
+      "id": 7,
+      "prompt": "what is unity?",
+      "response": "Unity can refer to several concepts, including:\n\n1. Unity in a group or organization, often referring to the state of being united or cohesive.\n2. The mathematical concept of unity, representing the number 1 or the multiplicative identity.\n3. A video game series called \"Doom\" has also used the term \"Unity\" for its engine and software.\n\nWhich context would you like me to provide more information on?"
     }
   ]
 }

@@ -12,7 +12,7 @@ venv/
 ENV/
 .venv/
 .env/
-
+.env
 # PyCharm
 .idea/
 
