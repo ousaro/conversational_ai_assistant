@@ -38,8 +38,8 @@ This project provides a friendly, precise, and context-aware AI assistant that l
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/ousaro/personal_ai_assistant.git
-    cd personal_ai_assistant
+    git clone https://github.com/ousaro/conversational_ai_assistant.git
+    cd conversational_ai_assistant
     ```
 2. **Install dependencies:**
     ```bash
